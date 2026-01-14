@@ -5,6 +5,12 @@ This project focuses on clean UI design, input validation, and basic screen navi
 
 ---
 
+## 📱 Login Screen Preview
+
+![Instagram Login Screen](screenshots/login_screen.png)
+
+---
+
 ## 📱 Features
 
 - Instagram-style login screen UI  
